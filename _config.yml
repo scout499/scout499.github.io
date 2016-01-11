@@ -1,0 +1,5 @@
+name: Pack 499
+markdown: redcarpet
+permalink: pretty
+gems:
+  - jekyll-sitemap

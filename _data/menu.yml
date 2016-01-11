@@ -1,0 +1,12 @@
+- path: /
+  title: "Home"
+- path: /den1/
+  title: "Dens 1, 2 and 3"
+- path: /den4/
+  title: "Den 4"
+- path: /den5/
+  title: "Den 5"
+- path: /pinewood/
+  title: "Pinewood Derby"
+- path: /calendar/
+  title: "Calendar"

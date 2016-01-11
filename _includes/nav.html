@@ -1,0 +1,12 @@
+{% assign url = include.url %}
+<div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
+  <div class="list-group">
+    {% for menu in site.data.menu %}
+      <a
+        href="{{ menu.path }}"
+        class="list-group-item {% if menu.path == url %}active{% endif %}">
+          {{ menu.title }}
+      </a>
+    {% endfor %}
+  </div>
+</div>
