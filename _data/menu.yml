@@ -8,5 +8,7 @@
   title: "Den 5"
 - path: /pinewood/
   title: "Pinewood Derby"
+- path: /org
+  title: "Pack Org"
 - path: /calendar/
   title: "Calendar"
